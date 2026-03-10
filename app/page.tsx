@@ -93,7 +93,7 @@ export default function HomePage() {
           <div className="order-1 md:order-2">
             {/* Replace this placeholder with your own professional profile photo */}
             <Image
-              src="https://drive.google.com/uc?export=view&id=1mfWXr1-yjYFHdw-TQDasfuZGXULNBPwq"
+              src="./portrait.png"
               alt="Professional portrait placeholder"
               width={640}
               height={720}
