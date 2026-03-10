@@ -1,12 +1,12 @@
-.gitignore
-
-# dependencies
+# ---------------------------------
+# Node / Next.js
+# ---------------------------------
 node_modules/
-
-# next.js build output
 .next/
 .next-app/
 out/
+dist/
+coverage/
 
 # logs
 npm-debug.log*
@@ -18,13 +18,66 @@ yarn-error.log*
 .env.local
 .env.*.local
 
-# OS files
-.DS_Store
-Thumbs.db
-
-# build
-dist/
-coverage/
-
-# typescript
+# TypeScript
 *.tsbuildinfo
+
+# ---------------------------------
+# Terraform
+# ---------------------------------
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/*.tfplan
+terraform/.terraform.lock.hcl
+terraform/backend.tf
+terraform/terraform.tfvars
+crash.log
+
+# ---------------------------------
+# Codex Skills
+# ---------------------------------
+.codex/tmp/
+.codex/.cache/
+# Keep .codex/skills/* tracked
+
+# ---------------------------------
+# VS Code
+# ---------------------------------
+.vscode/
+*.code-workspace
+.history/
+
+# ---------------------------------
+# OS files
+# ---------------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ---------------------------------
+# Logs / backup / temp files
+# ---------------------------------
+*.log
+*.bak
+*.old
+*.swp
+*.swo
+*.tmp
+
+# ---------------------------------
+# Secrets / Keys
+# ---------------------------------
+*.pem
+*.key
+*.p12
+*.pfx
+*.json
+
+.codex/
+AGENTS.md

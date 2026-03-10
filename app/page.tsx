@@ -79,7 +79,7 @@ export default function HomePage() {
         <div className="grid items-center gap-10 md:grid-cols-2">
           <div className="order-2 md:order-1">
             <p className="text-sm font-medium uppercase tracking-[0.2em] text-blue-500">DevOps Engineer</p>
-            <h1 className="mt-3 text-4xl font-extrabold tracking-tight sm:text-5xl">Hi, I&apos;m Your Name.</h1>
+            <h1 className="mt-3 text-4xl font-extrabold tracking-tight sm:text-5xl">Hi, I&apos;m Olajide Salami</h1>
             {/* Replace with your own short value proposition */}
             <p className="mt-5 max-w-2xl text-base text-slate-600 dark:text-slate-300 sm:text-lg">
               I design reliable, secure, and scalable delivery platforms that help teams ship faster with confidence.
@@ -93,7 +93,7 @@ export default function HomePage() {
           <div className="order-1 md:order-2">
             {/* Replace this placeholder with your own professional profile photo */}
             <Image
-              src="https://placehold.co/640x720/png?text=Professional+Photo"
+              src="https://drive.google.com/uc?export=view&id=1mfWXr1-yjYFHdw-TQDasfuZGXULNBPwq"
               alt="Professional portrait placeholder"
               width={640}
               height={720}
