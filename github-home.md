@@ -1,64 +1,76 @@
-﻿# Olajide Salami | Infrastructure • Cloud • DevSecOps
+﻿# Olajide Salami
+Infrastructure Engineer | Cloud Engineer | DevSecOps
 
-I design resilient, secure, and cost-aware platforms that help teams ship faster with confidence. My work blends infrastructure engineering, cloud architecture, and security automation to turn complex environments into reliable, observable systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://yourdomain.com)
 
-## What I Do
-- Build cloud foundations: landing zones, network segmentation, IAM, and governance
-- Automate infrastructure: IaC with Terraform, policy-as-code, and repeatable pipelines
-- Secure delivery: shift-left security, secrets management, and compliance-ready controls
-- Improve reliability: SLOs, monitoring, incident readiness, and fault-tolerant design
-- Optimize costs: right-sizing, lifecycle policies, and continuous FinOps reviews
+A cloud and DevSecOps engineer bridging development and operations, with expertise in secure cloud infrastructure, CI/CD automation, and reliable, scalable platform delivery.
 
-## Operating Principles
-- Security is a design input, not an afterthought
-- Automation beats documentation-only processes
-- Observability is a product feature
-- Simple, well-tested systems scale better than clever ones
+Experienced in IAM, cloud landing zones, Terraform, CI/CD, containerization, and production operations. Passionate about building secure, observable, and cost efficient systems.
 
-## Impact Highlights
-- Reduced provisioning time from days to minutes using modular Terraform
-- Implemented guardrails that prevented misconfigurations in production
-- Built CI/CD pipelines with embedded security and policy checks
-- Standardized environments across teams for consistent delivery
-
-## Focus Areas
-- Cloud platforms: AWS, Azure, GCP
-- IaC: Terraform, Terragrunt
-- CI/CD: GitHub Actions, GitLab CI, Jenkins
-- Security: SAST/DAST, secret scanning, IAM hardening
-- Reliability: Monitoring, alerting, incident response
-
-## Tech Stack
-- Languages: Bash, Python, Go, TypeScript
-- Cloud: AWS, Azure, GCP, Oracle
-- IaC: Terraform, Terragrunt, CloudFormation
-- CI/CD: GitHub Actions, GitLab CI, Jenkins
-- Containers: Docker, Kubernetes, Helm
-- Security: SAST/DAST, Vault, IAM, KMS
+## Skills
+- DevOps: Linux, Docker, Kubernetes, Terraform, CI/CD, Nginx
+- CI/CD: GitHub Actions, GitLab CI/CD, Jenkins
+- Cloud Platforms: AWS, Azure, GCP
+- Scripting/Programming: Python, Bash, TypeScript, Go
+- Version Control: Git, GitHub, GitLab
+- Infrastructure as Code: Terraform, Terragrunt
+- Identity and Access Management: IAM, SAML, OAuth2, OIDC, Keycloak, Azure AD
 - Observability: Prometheus, Grafana, ELK, OpenTelemetry
+- Collaboration: Jira, Confluence, Slack
 
-## GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=your-handle&hide_border=true)
+## Tech Stack Badges
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-handle&show_icons=true&hide_border=true)
+## Experience
+**Infrastructure Engineer / DevSecOps**
+Your Company - Remote [Month YYYY - Present]
 
-## Links
-- GitHub: https://github.com/your-handle
-- LinkedIn: https://www.linkedin.com/in/your-handle
-- Portfolio: https://yourdomain.com
-- Email: yourname@domain.com
+Projects
+- Project Name: One-line outcome and impact (metric, reliability, cost, or security)
+- Project Name: One-line outcome and impact (metric, reliability, cost, or security)
+
+**Cloud Engineer**
+Your Company - Location [Month YYYY - Month YYYY]
+
+Projects
+- Project Name: One-line outcome and impact (metric, reliability, cost, or security)
+- Project Name: One-line outcome and impact (metric, reliability, cost, or security)
 
 ## Certifications
-- AWS Certified Solutions Architect - Associate (Year)
-- Microsoft Certified: Azure Administrator Associate (Year)
-- Google Professional Cloud Architect (Year)
-- HashiCorp Certified: Terraform Associate (Year)
+[![AWS SAA](https://img.shields.io/badge/AWS%20SAA-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=111)](https://verify.your-link.com/aws-saa)
+AWS Certified Solutions Architect - Associate (Year) · Verification: https://verify.your-link.com/aws-saa
 
-## Open To
-- Platform modernization and cloud migration
-- DevSecOps enablement and security automation
-- Resiliency and cost optimization programs
+[![Azure Admin](https://img.shields.io/badge/Azure%20Admin-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://verify.your-link.com/azure-admin)
+Microsoft Certified: Azure Administrator Associate (Year) · Verification: https://verify.your-link.com/azure-admin
 
----
-If you’re building infrastructure that needs to be secure, scalable, and observable, I’m open to collaborating.
+[![GCP PCA](https://img.shields.io/badge/GCP%20PCA-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://verify.your-link.com/gcp-pca)
+Google Professional Cloud Architect (Year) · Verification: https://verify.your-link.com/gcp-pca
+
+[![Terraform](https://img.shields.io/badge/Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://verify.your-link.com/terraform-associate)
+HashiCorp Certified: Terraform Associate (Year) · Verification: https://verify.your-link.com/terraform-associate
+
+## Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
+[![Email](https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@domain.com)
+
+## Latest Blog
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@your-handle)
